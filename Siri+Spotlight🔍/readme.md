@@ -1,7 +1,7 @@
 # Siri and Spotlight🔍 Redirection Script Test
 Based on a compatible version with Boxjs 
-## The js folder, stores response and request scripts bundle:
-- response.bundle.js
+## The js folder, stores ~~response~~ and request scripts bundle:
+~~- response.bundle.js~~
 - request.bundle.js
   ### Changelog:
   - Siri Country: 🇹🇼, with Traditional Chinese
