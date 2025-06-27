@@ -1,0 +1,7 @@
+# name= Geo Services Correction 🇺🇸US
+# description= Make GeoService SSL result redirect to US🇺🇸
+
+# Geo Country Code Redirected to specified country 
+^https?:\/\/gspe1-ssl\.ls\.apple\.com\/pep\/gcc url script-response-body https://raw.githubusercontent.com/AnastasiyaBaginska/SurfingAroundTest/GeoServiceCorrection/js/GeoService🇺🇸.js
+
+hostname = gspe1-ssl.ls.apple.com
