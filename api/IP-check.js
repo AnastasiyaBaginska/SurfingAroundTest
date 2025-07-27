@@ -31,7 +31,7 @@ const emojis = [
 ];
 var city0 = "薩格爾市";
 var isp0 = "習維尼的中南海私人ISP";
-var org0 = "習匪禁評姐夫的巴拿馬公司"
+var org0 = "習匪禁評姐夫的巴拿馬公司";
 
 function getRandomInt(max) {
     return Math.floor(Math.random() * Math.floor(max));
