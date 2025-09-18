@@ -2778,7 +2778,7 @@ function get_emoji(emojip, sname) {
     var Lmoji = {
         "⏳": ["Traffic Plan"],
         "🔄": ["Traffic Reset"],
-        "🔚": ["Expired Date"],
+        "🔚": ["Expire Date"],
         "🇴🇲": ["阿曼", " OM "],
         "🇦🇩": ["安道尔", "安道爾", "Andorra"],
         "🇦🇴": ["安哥拉"],
