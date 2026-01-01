@@ -2899,7 +2899,7 @@ function get_emoji(emojip, sname) {
         "🇲🇺": ["毛里求斯", "Mauritius"],
         "🇵🇷": ["波多黎各", "PR ", "PR-", "Puerto Rico"],
         "🇬🇹": ["危地马拉", "危地馬拉", " GT "],
-        "🌂": ["HK", "Hongkong", "Hong Kong", "HongKong", "HONG KONG", "香港", "深港", "沪港", "呼港", "HKT", "HKBN", "HGC", "WTT", "CMI", "穗港", "京港", "港"],
+        "🏴": ["HK", "Hongkong", "Hong Kong", "HongKong", "HONG KONG", "香港", "深港", "沪港", "呼港", "HKT", "HKBN", "HGC", "WTT", "CMI", "穗港", "京港", "港"],
         "🇨🇳": ["CN", "China", "回国", "中国", "中國", "江苏", "北京", "上海", "广州", "深圳", "杭州", "徐州", "青岛", "宁波", "镇江", "back"],
         "🇨🇺": ["古巴"],
         "🇸🇲": ["圣马力诺", "聖馬利諾"],
